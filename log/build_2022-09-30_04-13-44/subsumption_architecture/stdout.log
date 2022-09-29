@@ -1,0 +1,37 @@
+running egg_info
+writing ../../build/subsumption_architecture/subsumption_architecture.egg-info/PKG-INFO
+writing dependency_links to ../../build/subsumption_architecture/subsumption_architecture.egg-info/dependency_links.txt
+writing entry points to ../../build/subsumption_architecture/subsumption_architecture.egg-info/entry_points.txt
+writing requirements to ../../build/subsumption_architecture/subsumption_architecture.egg-info/requires.txt
+writing top-level names to ../../build/subsumption_architecture/subsumption_architecture.egg-info/top_level.txt
+reading manifest file '../../build/subsumption_architecture/subsumption_architecture.egg-info/SOURCES.txt'
+writing manifest file '../../build/subsumption_architecture/subsumption_architecture.egg-info/SOURCES.txt'
+running build
+running build_py
+copying subsumption_architecture/AlifeEngine.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+running install
+running install_lib
+copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/AlifeEngine.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/AlifeEngine.py to AlifeEngine.cpython-310.pyc
+running install_data
+copying launch/launch.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/share/subsumption_architecture
+running install_egg_info
+removing '/home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/subsumption_architecture/subsumption_architecture.egg-info to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture-0.0.0-py3.10.egg-info
+running install_scripts
+Installing PID_eye script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing PID_neck script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing alife_engine script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing avoid script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing camera_pub script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing camera_sub script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing face_detect script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing face_expression script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing hand_detect script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing imitation script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing main script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing movingobj_detect script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing periodic_axis script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing random_axis script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+Installing sim = subsumption_architecture.server:mainhand_pos script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+writing list of installed files to '/home/tnoin/codes/subsumption/build/subsumption_architecture/install.log'

@@ -1,0 +1,18 @@
+[console_scripts]
+PID_eye = subsumption_architecture.PID_eye:main
+PID_neck = subsumption_architecture.PID_neck:main
+alife_engine = subsumption_architecture.AlifeEngine:main
+avoid = subsumption_architecture.avoid:main
+camera_pub = subsumption_architecture.pub:main
+camera_sub = subsumption_architecture.sub:main
+face_detect = subsumption_architecture.face:main
+face_expression = subsumption_architecture.faceexpression:main
+hand_detect = subsumption_architecture.handgaze:main
+hand_pos = subsumption_architecture.send_hand_pos:main
+imitation = subsumption_architecture.imitation:main
+main = subsumption_architecture.server:main
+movingobj_detect = subsumption_architecture.objdetect:main
+periodic_axis = subsumption_architecture.periodicaxis:main
+random_axis = subsumption_architecture.randomaxis:main
+sim = subsumption_architecture.server:main_sim
+

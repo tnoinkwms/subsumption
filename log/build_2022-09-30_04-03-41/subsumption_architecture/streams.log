@@ -1,0 +1,110 @@
+[0.443s] Invoking command in '/home/tnoin/codes/subsumption/src/subsumption_architecture': PYTHONPATH=/home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/subsumption_architecture build --build-base /home/tnoin/codes/subsumption/build/subsumption_architecture/build install --prefix /home/tnoin/codes/subsumption/install/subsumption_architecture --record /home/tnoin/codes/subsumption/build/subsumption_architecture/install.log --single-version-externally-managed
+[0.621s] running egg_info
+[0.621s] creating ../../build/subsumption_architecture/subsumption_architecture.egg-info
+[0.622s] writing ../../build/subsumption_architecture/subsumption_architecture.egg-info/PKG-INFO
+[0.622s] writing dependency_links to ../../build/subsumption_architecture/subsumption_architecture.egg-info/dependency_links.txt
+[0.622s] writing entry points to ../../build/subsumption_architecture/subsumption_architecture.egg-info/entry_points.txt
+[0.622s] writing requirements to ../../build/subsumption_architecture/subsumption_architecture.egg-info/requires.txt
+[0.622s] writing top-level names to ../../build/subsumption_architecture/subsumption_architecture.egg-info/top_level.txt
+[0.622s] writing manifest file '../../build/subsumption_architecture/subsumption_architecture.egg-info/SOURCES.txt'
+[0.623s] reading manifest file '../../build/subsumption_architecture/subsumption_architecture.egg-info/SOURCES.txt'
+[0.624s] writing manifest file '../../build/subsumption_architecture/subsumption_architecture.egg-info/SOURCES.txt'
+[0.624s] running build
+[0.624s] running build_py
+[0.624s] creating /home/tnoin/codes/subsumption/build/subsumption_architecture/build
+[0.624s] creating /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib
+[0.624s] creating /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.624s] copying subsumption_architecture/app2.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.624s] copying subsumption_architecture/sub.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.624s] copying subsumption_architecture/periodicaxis.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/PID_eye.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/marge.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/send_hand_pos.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/pub.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/randomaxis.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/app.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/demo_superglue.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/faceexpression.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/handgaze.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.625s] copying subsumption_architecture/imitation.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.626s] copying subsumption_architecture/server.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.626s] copying subsumption_architecture/__init__.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.626s] copying subsumption_architecture/memo.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.626s] copying subsumption_architecture/objdetect.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.626s] copying subsumption_architecture/avoid.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.626s] copying subsumption_architecture/face.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.626s] copying subsumption_architecture/PID_neck.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.626s] copying subsumption_architecture/osc_receive.py -> /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture
+[0.626s] running install
+[0.626s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.627s]   warnings.warn(
+[0.627s] running install_lib
+[0.627s] creating /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.627s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/app2.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/sub.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/periodicaxis.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/PID_eye.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/marge.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/send_hand_pos.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/pub.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/randomaxis.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/app.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/demo_superglue.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/faceexpression.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/handgaze.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/imitation.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/server.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/__init__.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.628s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/memo.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.629s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/objdetect.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.629s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/avoid.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.629s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/face.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.629s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/PID_neck.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.629s] copying /home/tnoin/codes/subsumption/build/subsumption_architecture/build/lib/subsumption_architecture/osc_receive.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture
+[0.629s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/app2.py to app2.cpython-310.pyc
+[0.632s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/sub.py to sub.cpython-310.pyc
+[0.632s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/periodicaxis.py to periodicaxis.cpython-310.pyc
+[0.633s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/PID_eye.py to PID_eye.cpython-310.pyc
+[0.633s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/marge.py to marge.cpython-310.pyc
+[0.633s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/send_hand_pos.py to send_hand_pos.cpython-310.pyc
+[0.636s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/pub.py to pub.cpython-310.pyc
+[0.636s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/randomaxis.py to randomaxis.cpython-310.pyc
+[0.636s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/app.py to app.cpython-310.pyc
+[0.639s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/demo_superglue.py to demo_superglue.cpython-310.pyc
+[0.640s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/faceexpression.py to faceexpression.cpython-310.pyc
+[0.640s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/handgaze.py to handgaze.cpython-310.pyc
+[0.640s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/imitation.py to imitation.cpython-310.pyc
+[0.641s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/server.py to server.cpython-310.pyc
+[0.641s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/__init__.py to __init__.cpython-310.pyc
+[0.641s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/memo.py to memo.cpython-310.pyc
+[0.642s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/objdetect.py to objdetect.cpython-310.pyc
+[0.642s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/avoid.py to avoid.cpython-310.pyc
+[0.643s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/face.py to face.cpython-310.pyc
+[0.643s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/PID_neck.py to PID_neck.cpython-310.pyc
+[0.643s] byte-compiling /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture/osc_receive.py to osc_receive.cpython-310.pyc
+[0.644s] running install_data
+[0.644s] creating /home/tnoin/codes/subsumption/install/subsumption_architecture/share/ament_index
+[0.644s] creating /home/tnoin/codes/subsumption/install/subsumption_architecture/share/ament_index/resource_index
+[0.644s] creating /home/tnoin/codes/subsumption/install/subsumption_architecture/share/ament_index/resource_index/packages
+[0.645s] copying resource/subsumption_architecture -> /home/tnoin/codes/subsumption/install/subsumption_architecture/share/ament_index/resource_index/packages
+[0.645s] copying package.xml -> /home/tnoin/codes/subsumption/install/subsumption_architecture/share/subsumption_architecture
+[0.645s] copying launch/launch.py -> /home/tnoin/codes/subsumption/install/subsumption_architecture/share/subsumption_architecture
+[0.645s] running install_egg_info
+[0.646s] Copying ../../build/subsumption_architecture/subsumption_architecture.egg-info to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture-0.0.0-py3.10.egg-info
+[0.646s] running install_scripts
+[0.661s] Installing PID_eye script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing PID_neck script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing avoid script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing camera script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing face_detect script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing face_expression script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing hand_detect script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing imitation script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing main script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing movingobj_detect script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing osc script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing periodic_axis script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.661s] Installing random_axis script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.662s] Installing sim script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.662s] writing list of installed files to '/home/tnoin/codes/subsumption/build/subsumption_architecture/install.log'
+[0.680s] Invoked command in '/home/tnoin/codes/subsumption/src/subsumption_architecture' returned '0': PYTHONPATH=/home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/subsumption_architecture build --build-base /home/tnoin/codes/subsumption/build/subsumption_architecture/build install --prefix /home/tnoin/codes/subsumption/install/subsumption_architecture --record /home/tnoin/codes/subsumption/build/subsumption_architecture/install.log --single-version-externally-managed

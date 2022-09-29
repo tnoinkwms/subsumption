@@ -1,0 +1,36 @@
+[0.447s] Invoking command in '/home/tnoin/codes/subsumption/src/subsumption_architecture': PYTHONPATH=/home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/subsumption_architecture build --build-base /home/tnoin/codes/subsumption/build/subsumption_architecture/build install --prefix /home/tnoin/codes/subsumption/install/subsumption_architecture --record /home/tnoin/codes/subsumption/build/subsumption_architecture/install.log --single-version-externally-managed
+[0.624s] running egg_info
+[0.624s] writing ../../build/subsumption_architecture/subsumption_architecture.egg-info/PKG-INFO
+[0.624s] writing dependency_links to ../../build/subsumption_architecture/subsumption_architecture.egg-info/dependency_links.txt
+[0.624s] writing entry points to ../../build/subsumption_architecture/subsumption_architecture.egg-info/entry_points.txt
+[0.625s] writing requirements to ../../build/subsumption_architecture/subsumption_architecture.egg-info/requires.txt
+[0.625s] writing top-level names to ../../build/subsumption_architecture/subsumption_architecture.egg-info/top_level.txt
+[0.626s] reading manifest file '../../build/subsumption_architecture/subsumption_architecture.egg-info/SOURCES.txt'
+[0.627s] writing manifest file '../../build/subsumption_architecture/subsumption_architecture.egg-info/SOURCES.txt'
+[0.627s] running build
+[0.627s] running build_py
+[0.628s] running install
+[0.628s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.628s]   warnings.warn(
+[0.628s] running install_lib
+[0.629s] running install_data
+[0.630s] running install_egg_info
+[0.631s] removing '/home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture-0.0.0-py3.10.egg-info' (and everything under it)
+[0.631s] Copying ../../build/subsumption_architecture/subsumption_architecture.egg-info to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages/subsumption_architecture-0.0.0-py3.10.egg-info
+[0.631s] running install_scripts
+[0.646s] Installing PID_eye script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing PID_neck script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing avoid script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing camera script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing face_detect script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing face_expression script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing hand_detect script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing imitation script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing main script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing movingobj_detect script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing osc script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing periodic_axis script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing random_axis script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.646s] Installing sim script to /home/tnoin/codes/subsumption/install/subsumption_architecture/lib/subsumption_architecture
+[0.647s] writing list of installed files to '/home/tnoin/codes/subsumption/build/subsumption_architecture/install.log'
+[0.662s] Invoked command in '/home/tnoin/codes/subsumption/src/subsumption_architecture' returned '0': PYTHONPATH=/home/tnoin/codes/subsumption/install/subsumption_architecture/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/subsumption_architecture build --build-base /home/tnoin/codes/subsumption/build/subsumption_architecture/build install --prefix /home/tnoin/codes/subsumption/install/subsumption_architecture --record /home/tnoin/codes/subsumption/build/subsumption_architecture/install.log --single-version-externally-managed
